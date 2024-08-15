@@ -1,0 +1,82 @@
+[
+    {   
+        "_id": "1",
+        "title": "Web Development",
+        "description": "Develop a fully responsive website with modern design.",
+        "price": 1200,
+        "duration": "3 weeks",
+        "proposal": "I will create a stunning website that is optimized for all devices and meets your business needs."
+    },
+    {   
+        "_id": "2",
+        "title": "Mobile App Design",
+        "description": "Design a user-friendly mobile app interface for both iOS and Android.",
+        "price": 800,
+        "duration": "2 weeks",
+        "proposal": "I will design an intuitive and engaging app interface that enhances user experience and aligns with your brand."
+    },
+    {   
+        "_id": "3",
+        "title": "SEO Optimization",
+        "description": "Optimize your website for better search engine rankings and visibility.",
+        "price": 600,
+        "duration": "1 month",
+        "proposal": "I will implement SEO strategies to improve your website's search engine rankings and attract more organic traffic."
+    },
+    {   
+        "_id": "4",
+        "title": "Content Writing",
+        "description": "Write engaging and SEO-friendly content for your blog or website.",
+        "price": 400,
+        "duration": "1 week",
+        "proposal": "I will deliver high-quality content that is well-researched, engaging, and optimized for SEO."
+    },
+    {   
+        "_id": "5",
+        "title": "Social Media Management",
+        "description": "Manage and grow your social media presence across various platforms.",
+        "price": 700,
+        "duration": "1 month",
+        "proposal": "I will create and execute a social media strategy to boost your online presence and engage with your audience effectively."
+    },
+    {   
+        "_id": "6",
+        "title": "Logo Design",
+        "description": "Design a unique and memorable logo for your brand.",
+        "price": 500,
+        "duration": "2 weeks",
+        "proposal": "I will design a custom logo that reflects your brand identity and stands out in the market."
+    },
+    {   
+        "_id": "7",
+        "title": "E-commerce Setup",
+        "description": "Set up an e-commerce store with product listings and payment integration.",
+        "price": 1500,
+        "duration": "4 weeks",
+        "proposal": "I will create an e-commerce store that is user-friendly, secure, and optimized for sales."
+    },
+    {   
+        "_id": "8",
+        "title": "UX/UI Consultation",
+        "description": "Consultation to improve the user experience and interface of your application.",
+        "price": 300,
+        "duration": "1 week",
+        "proposal": "I will provide expert advice on enhancing the usability and visual appeal of your application."
+    },
+    {   
+        "_id": "9",
+        "title": "Video Editing",
+        "description": "Edit and produce professional-quality videos for your brand.",
+        "price": 600,
+        "duration": "2 weeks",
+        "proposal": "I will edit and polish your video footage to create a compelling and visually appealing final product."
+    },
+    {   
+        "_id": "10",
+        "title": "Digital Marketing Campaign",
+        "description": "Create and manage a digital marketing campaign to drive traffic and sales.",
+        "price": 1000,
+        "duration": "1 month",
+        "proposal": "I will design and implement a comprehensive digital marketing campaign to increase your brand's visibility and drive results."
+    }
+]
